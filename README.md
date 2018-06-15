@@ -1,13 +1,13 @@
 # wormsoft eblo site gen
 
-Скринкаст:
+## Скринкаст:  
 [Ссылка](demo_video.mp4)
 
-Скриншот:
+## Скриншот:
 ![screen.png](screen.png)
 
-Схема обработки:
+## Схема обработки: 
 ![scheme.png](scheme.png)
 
-Синтаксис:
+## Синтаксис: 
 ![syntax.png](syntax.png)
