@@ -1,4 +1,4 @@
-# wormsoft eblo site gen
+# wormsoft site gen
 
 ## Скринкаст:  
 [Ссылка](demo_video.mp4)
